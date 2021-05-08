@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/web-re/static/css/main.f5830e71.chunk.css",
+    "main.js": "/web-re/static/js/main.bf225111.chunk.js",
+    "main.js.map": "/web-re/static/js/main.bf225111.chunk.js.map",
+    "runtime-main.js": "/web-re/static/js/runtime-main.dc8dae55.js",
+    "runtime-main.js.map": "/web-re/static/js/runtime-main.dc8dae55.js.map",
+    "static/js/2.b9d0dc5b.chunk.js": "/web-re/static/js/2.b9d0dc5b.chunk.js",
+    "static/js/2.b9d0dc5b.chunk.js.map": "/web-re/static/js/2.b9d0dc5b.chunk.js.map",
+    "index.html": "/web-re/index.html",
+    "static/css/main.f5830e71.chunk.css.map": "/web-re/static/css/main.f5830e71.chunk.css.map",
+    "static/js/2.b9d0dc5b.chunk.js.LICENSE.txt": "/web-re/static/js/2.b9d0dc5b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/web-re/static/media/img-2.95331c05.jpg",
+    "static/media/BodySection.css": "/web-re/static/media/img-3.938c80d0.jpg",
+    "static/media/makeup.5756bd26.jpg": "/web-re/static/media/makeup.5756bd26.jpg",
+    "static/media/music-e.cc37b303.jpg": "/web-re/static/media/music-e.cc37b303.jpg",
+    "static/media/music-h.557bd660.jpg": "/web-re/static/media/music-h.557bd660.jpg",
+    "static/media/music.2207efd1.jpg": "/web-re/static/media/music.2207efd1.jpg",
+    "static/media/runaway-2.9e975a73.jpg": "/web-re/static/media/runaway-2.9e975a73.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc8dae55.js",
+    "static/js/2.b9d0dc5b.chunk.js",
+    "static/css/main.f5830e71.chunk.css",
+    "static/js/main.bf225111.chunk.js"
+  ]
+}

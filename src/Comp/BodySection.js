@@ -7,8 +7,11 @@ function BodySection() {
         <>
         <div className = 'hero-container'>
             {/* <video src = '../../public/Videos/video-1.mp4' autoPlay loop muted/> */}
-            <h1>ADVENTURE AWAITS</h1>
-            <p>What are you waiting for?</p>
+			<div className = 'hero-wrapper'>
+            <h1>MIDDLe</h1>
+            <h1>oF</h1>
+            <h1>ADVeNTURE</h1>
+            <p>IS SUCH A PERFECT PLACE TO START.</p>
             <div className = 'hero-btns'>
                 <Button className='btns'
                  buttonStyle='btn--outline'
@@ -20,6 +23,7 @@ function BodySection() {
                  buttonSize = 'btn--large'>
                     WATCH TRAILER <i className = 'far fa-play-circle'/>
                 </Button>
+                </div>
             </div>
         </div>
         </>

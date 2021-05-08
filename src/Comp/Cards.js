@@ -5,6 +5,7 @@ import makeup from './Images/makeup.jpg';
 import music from './Images/music.jpg';
 import musice from './Images/music-e.jpg';
 import musich from './Images/music-h.jpg';
+import runaway from './Images/runaway-2.jpg';
 
 function Cards() {
     return (
@@ -21,7 +22,7 @@ function Cards() {
                         />
                         <CardItem 
                         src = {music}
-                        text =  "Get brought back by classic Melodies."
+                        text =  "Be brought back by classic Melodies."
                         label = 'Afsaane'
                         path = '/music'
                         />
@@ -29,22 +30,23 @@ function Cards() {
                     <ul className='cards__items'>
                         <CardItem 
                         src = {musice}
-                        text =  "Explore the brand new high-end looks."
-                        label = 'Chehra'
-                        path = '/music'
-                        />
-                         <CardItem 
-                        src = {musich}
-                        text =  "Explore the brand new high-end looks."
-                        label = 'Chehra'
+                        text =  "English Playlist."
+                        label = 'Melody'
                         path = '/music'
                         />
                         <CardItem 
-                        src = {makeup}
-                        text =  "Get brought back by classic Melodies."
-                        label = 'Afsaane'
+                        src = {runaway}
+                        text =  "What's in Vogue."
+                        label = 'Runaway'
                         path = '/makeup'
                         />
+                         <CardItem 
+                        src = {musich}
+                        text =  "Hindi Playlist."
+                        label = 'Nagme'
+                        path = '/music'
+                        />
+                        
                     </ul>
                 </div>
             </div>

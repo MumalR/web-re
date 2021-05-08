@@ -65,7 +65,7 @@ function Footer() {
                             WEBRE <i className = "fab fa-pagelines"/>
                         </Link>
                     </div>
-                    <small className='website-rights'>WEBRE © 2020 </small>
+                    <small className='website-rights'>WEBRE © 2021 </small>
                     <div className='social-icons'>
                         <Link 
                         className='social-icon-link intagram'
